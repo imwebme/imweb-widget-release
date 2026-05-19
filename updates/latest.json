@@ -1,0 +1,15 @@
+{
+  "version": "0.0.20",
+  "build": "15",
+  "tag": "v0.0.20",
+  "source_sha": "79cdac7506bcaf1fd97c6198e48424c0f4a6b733",
+  "published_at": "2026-05-19T03:48:41.494Z",
+  "assets": {
+    "macos_dmg": "https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.20/ImwebWidget-0.0.20.dmg",
+    "windows_installer": "https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.20/imweb.Widget_0.0.20_x64-setup.exe"
+  },
+  "update_feeds": {
+    "macos": "https://imwebme.github.io/imweb-widget-release/updates/macos/appcast.xml",
+    "windows": "https://imwebme.github.io/imweb-widget-release/updates/windows/latest.json"
+  }
+}

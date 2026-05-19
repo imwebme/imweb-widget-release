@@ -1,0 +1,11 @@
+{
+  "version": "0.0.20",
+  "notes": "imweb Widget preview release v0.0.20.",
+  "pub_date": "2026-05-19T03:48:41.494Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWFFtR05iR043ZGpBb0QwZFZzVzRwelZtRFB3WHZrSTlpQnFxZjdTYW82QVlBYVJxdDR5T01BYjBKRml0SzNJQ0F0OW42UXQrSXJxTmZxTFlZS1F5RnBjQXIxczVHNmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTYyMzQyCWZpbGU6aW13ZWIgV2lkZ2V0XzAuMC4yMF94NjQtc2V0dXAuZXhlClZCZ29lS2QwNElkWWNFTjlnVXgrd3lMVEl0SGNRK2t6dGE3M2JFb0hTS0RHeGZwbXZKVFlNUGpDaTBaeEtGZHA2NUVlQ1dlSGxTWlNzclRJV3FGbkFBPT0K",
+      "url": "https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.20/imweb.Widget_0.0.20_x64-setup.exe"
+    }
+  }
+}

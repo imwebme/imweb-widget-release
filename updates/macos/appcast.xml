@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>imweb Widget macOS Updates</title>
+    <link>https://imwebme.github.io/imweb-widget-release/updates/macos/appcast.xml</link>
+    <description>macOS updates for imweb Widget</description>
+    <language>ko</language>
+    <item>
+      <title>v0.0.20</title>
+      <description><![CDATA[imweb Widget preview release v0.0.20.]]></description>
+      <pubDate>Tue, 19 May 2026 03:48:41 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.0.20</sparkle:shortVersionString>
+      <enclosure
+        url="https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.20/ImwebWidget-0.0.20.dmg"
+        sparkle:edSignature="J4fD5RiZotMx07eAWtsxbbfCkqYaqyavRVr51fIWuACuYFrnDiVI3Mx62yiXql/KKzI/he/S8Y2Y9hL85uwLDQ=="
+        length="2641928"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
