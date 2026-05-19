@@ -6,15 +6,15 @@
     <description>macOS updates for imweb Widget</description>
     <language>ko</language>
     <item>
-      <title>v0.0.21</title>
-      <description><![CDATA[imweb Widget preview release v0.0.21.]]></description>
-      <pubDate>Tue, 19 May 2026 08:22:18 GMT</pubDate>
-      <sparkle:version>16</sparkle:version>
-      <sparkle:shortVersionString>0.0.21</sparkle:shortVersionString>
+      <title>v0.0.22</title>
+      <description><![CDATA[imweb Widget preview release v0.0.22.]]></description>
+      <pubDate>Tue, 19 May 2026 09:07:37 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.0.22</sparkle:shortVersionString>
       <enclosure
-        url="https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.21/ImwebWidget-0.0.21.dmg"
-        sparkle:edSignature="MSz0EqcWyrSVbGb3H5du+y0LAgrVqCabdw1tY3EqgYYa52RqqVxG+JoF6Vsx8O74QZnCuBd4jgSuJkEsgvMUAA=="
-        length="2625294"
+        url="https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.22/ImwebWidget-0.0.22.dmg"
+        sparkle:edSignature="IfMyopB0o8pzpZZq4iR+o3WL9h8KMXLG2TsdLLwSgpm7sp7OxH9gKOEHppn8ctPJERUmUB5Pfyv1HfDOXMO9Dw=="
+        length="2625456"
         type="application/octet-stream" />
     </item>
   </channel>

@@ -1,11 +1,11 @@
 {
-  "version": "0.0.21",
-  "notes": "imweb Widget preview release v0.0.21.",
-  "pub_date": "2026-05-19T08:22:18.850Z",
+  "version": "0.0.22",
+  "notes": "imweb Widget preview release v0.0.22.",
+  "pub_date": "2026-05-19T09:07:37.172Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWFFtR05iR043ZHFnMU9qdlJDeFFmQ2NGQUg4eElIc2hZOSt0ek41c1Y1Rkw0R3MrUlhuNTZaS045MkVpYy9NYk9PSGowK2w3WmNWNWJrMDkvWUp2N3lPSUtURlZqRkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTc4ODAyCWZpbGU6aW13ZWIgV2lkZ2V0XzAuMC4yMV94NjQtc2V0dXAuZXhlCjU0MHdSRzF4bEN5eHoyWlZiSjhQUHUveGxvUVJOTzA5S2dYQXZOb2VDcDFOdFdwMURUQWs1akd2N2dtaytMcTIyWnFiZHFZS2RUZnh5SUdqMmxaN0RRPT0K",
-      "url": "https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.21/imweb.Widget_0.0.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWFFtR05iR043ZHQxRm4rWE9QdGZGNVpta1cyS2ZsV3IvdG05SnlWUnF2Z0JQZEpQS0tjRXE1dDVualdkRlVuS1NaRktobUl5RUljc1dTckpyTnFFNE9VZ285K3h3ZEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTgxNDc3CWZpbGU6aW13ZWIgV2lkZ2V0XzAuMC4yMl94NjQtc2V0dXAuZXhlCnZZdFplWFNqQWhkVk4vM1NNR0ZkbUprUm5TUWZpK3hvYXFHa09aczNHNncxTDBSUlRTRUpUZHdlYnB4K2lXYUx4YVFPRjV6RDZyQW1SaU5FSnpVSkFnPT0K",
+      "url": "https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.22/imweb.Widget_0.0.22_x64-setup.exe"
     }
   }
 }

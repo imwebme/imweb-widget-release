@@ -1,12 +1,12 @@
 {
-  "version": "0.0.21",
-  "build": "16",
-  "tag": "v0.0.21",
-  "source_sha": "3f5ffdcedd5aee827b878a7b14573b71b019277f",
-  "published_at": "2026-05-19T08:22:18.850Z",
+  "version": "0.0.22",
+  "build": "17",
+  "tag": "v0.0.22",
+  "source_sha": "3ff60d55126d2f737b769fb21455f848ae27ad2d",
+  "published_at": "2026-05-19T09:07:37.172Z",
   "assets": {
-    "macos_dmg": "https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.21/ImwebWidget-0.0.21.dmg",
-    "windows_installer": "https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.21/imweb.Widget_0.0.21_x64-setup.exe"
+    "macos_dmg": "https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.22/ImwebWidget-0.0.22.dmg",
+    "windows_installer": "https://github.com/imwebme/imweb-widget-release/releases/download/v0.0.22/imweb.Widget_0.0.22_x64-setup.exe"
   },
   "update_feeds": {
     "macos": "https://imwebme.github.io/imweb-widget-release/updates/macos/appcast.xml",
